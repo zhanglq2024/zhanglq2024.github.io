@@ -31,7 +31,7 @@ title: "Zhanglq Links"
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@ZHANGLQ"
+name: "@zhanglq"
 
 # Tagline section text
 tagline: >-
@@ -74,43 +74,12 @@ links:
       title: "Zhanglq's X"
       target: "_blank"
 
-
 socials:  
   - social:  
-      icon: "fa-brands fa-medium"  
-      url: "https://blog.zhgchg.li"  
-      title: "ZhgChgLi 的 Medium"  
-      alt: "ZhgChgLi 的 Medium"  
-      target: "_blank"  
-  - social:  
-      icon: "fa-brands fa-github"  
-      url: "https://github.com/ZhgChgLi"  
-      title: "ZhgChgLi 的 GitHub"  
-      alt: "ZhgChgLi 的 GitHub"  
-      target: "_blank"  
-  - social:  
-      icon: "fa-brands fa-twitter"  
-      url: "https://twitter.com/zhgchgli"  
-      title: "ZhgChgLi 的 Twitter"  
-      alt: "ZhgChgLi 的 Twitter"  
-      target: "_blank"  
-  - social:  
-      icon: "fa-brands fa-linkedin"  
-      url: "https://www.linkedin.com/in/zhgchgli/"  
-      title: "ZhgChgLi 的 LinkedIn"  
-      alt: "ZhgChgLi 的 LinkedIn"  
-      target: "_blank"  
-  - social:  
-      icon: "fa-brands fa-instagram"  
-      url: "https://www.instagram.com/zhgchgli/"  
-      title: "Instagram"  
-      alt: "ZhgChgLi 的 Instagram"  
-      target: "_blank"  
-  - social:  
       icon: "fa-solid fa-envelope"  
-      url: "zhgchgli@gmail.com"  
-      title: "Email: zhgchgli@gmail.com"  
-      alt: "zhgchgli@gmail.com"  
+      url: "zhanglanqing28@gmail.com"  
+      title: "Email: zhanglanqing28@gmail.com"  
+      alt: "zhanglanqing28@gmail.com"  
       target: "_blank"  
 
 # Footer text
