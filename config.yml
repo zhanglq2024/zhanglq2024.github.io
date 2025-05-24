@@ -60,19 +60,20 @@ links:
       title: "Zhanglq's Github"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-twitter"
-      text: "X (Twitter)"
-      url: "https://x.com/cpdm0330"
-      alt: "Zhanglq's X"
-      title: "Zhanglq's X"
-      target: "_blank"
-  - link:
       icon: "fa-solid fa-code"
       text: "Leetcode"
       url: "https://leetcode.com/u/carpdm/"
       alt: "Zhanglq's Leetcode"
       title: "Zhanglq's Leetcode"
       target: "_blank"
+  - link:
+      icon: "fa-brands fa-twitter"
+      text: "X (Twitter)"
+      url: "https://x.com/cpdm0330"
+      alt: "Zhanglq's X"
+      title: "Zhanglq's X"
+      target: "_blank"
+
 
 socials:  
   - social:  
