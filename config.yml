@@ -67,7 +67,7 @@ links:
       title: "Zhanglq's X"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-app-store-ios"
+      icon: "fa-solid fa-code"
       text: "Leetcode"
       url: "https://leetcode.com/u/carpdm/"
       alt: "Zhanglq's Leetcode"
