@@ -53,7 +53,7 @@ links:
       title: "Zhanglq's Google Scholar"
       target: "_blank"
   - link:
-      icon: "fa-solid fa-github"
+      icon: "fa-brands fa-github"
       text: "Github"
       url: "https://github.com/zhanglq2024"
       alt: "Zhanglq's Github"
@@ -68,18 +68,12 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-app-store-ios"
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
+      text: "Leetcode"
+      url: "https://leetcode.com/u/carpdm/"
+      alt: "Zhanglq's Leetcode"
+      title: "Zhanglq's Leetcode"
       target: "_blank"
-  - link:
-      icon: "fa-brands fa-github"
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/linkyee"
-      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      target: "_blank"
+
 
 
 # Footer text
