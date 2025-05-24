@@ -61,7 +61,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-twitter"
-      text: "X"
+      text: "X (Twitter)"
       url: "https://x.com/cpdm0330"
       alt: "Zhanglq's X"
       title: "Zhanglq's X"
@@ -74,7 +74,13 @@ links:
       title: "Zhanglq's Leetcode"
       target: "_blank"
 
-
+socials:  
+  - social:  
+      icon: "fa-solid fa-envelope"  
+      url: "zhanglanqing28@gmail.com"  
+      title: "Email: zhanglanqing28@gmail.com"  
+      alt: "zhanglanqing28@gmail.com"  
+      target: "_blank" 
 
 # Footer text
 footer: >
